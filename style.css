@@ -1609,7 +1609,7 @@ article.post-item {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: var(--accent-color) !important;
+  background-color: var(--secondary-color) !important;
 }
 
 .bg-secondary {
